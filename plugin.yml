@@ -1,0 +1,4 @@
+name: BadPlugin
+version: 0.0.0
+api: [3.0.0-ALPHA5]
+main: BadPlugin\BadPlugin
